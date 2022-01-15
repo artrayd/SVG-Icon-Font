@@ -1,6 +1,6 @@
 # Inline SVG Icon
 
-![Inlinve SVG Icon](https://artrayd.com/inline-svg-icons/cover.png)
+![Inlinve SVG Icon](https://artrayd.com/inline-svg-icons/cover.png?v=1)
 
 Example how to create SVG Icon component
 This repository is made for this [tutorial artice](https://medium.com/@dmitrymind/inline-svg-icons-in-vuejs-6b3e3f488912)
