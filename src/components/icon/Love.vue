@@ -18,5 +18,3 @@ export default {
   name: "Love",
 };
 </script>
-
-<style scoped></style>
