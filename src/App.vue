@@ -88,6 +88,7 @@ main {
 
   .buttons {
     margin-top: 40px;
+    display: flex;
     a {
       padding: 8px 16px;
       color: $black;
